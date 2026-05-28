@@ -1,0 +1,34 @@
+# Car Price Prediction using Random Forest
+
+## Project Overview
+
+Machine Learning project that predicts used car prices using Random Forest Regression.
+
+---
+
+## Actual vs Predicted Plot
+
+![Prediction Plot](screenshots/prediction_plot.png)
+
+---
+
+## Feature Importance
+
+![Feature Importance](screenshots/feature_importance.png)
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+---
+
+## Model Performance
+
+- R² Score: 0.92
+- MAE: 875
+- Algorithm: Random Forest Regressor
